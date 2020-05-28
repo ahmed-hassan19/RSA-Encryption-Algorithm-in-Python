@@ -1,6 +1,6 @@
 # RSA-Encryption-Algorithm-in-Python
 
-This is a Python3 implementation to the RSA encryption algorithm using the Extended Euclidean algorithm (also known as extended gcd).
+This is a Python3 implementation to the [RSA Encryption Algorithm](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) using the Extended Euclidean algorithm (also known as extended gcd).
 
 ## Usage
 
